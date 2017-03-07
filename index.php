@@ -141,7 +141,7 @@
 	else
 	{
 		$contentopts = array(
-			"desc" => "Pick an option from the left."
+			"desc" => "Pick an option from the menu."
 		);
 
 		BB_GeneratePage("Home", $menuopts, $contentopts);
