@@ -555,9 +555,10 @@ setInterval(function() {
 					"title" => "Module:  File Uploader",
 					"type" => "file",
 					"name" => "file2",
-					"accept" => ".jpg, .png, .gif, image/jpeg, image/png, image/gif",
+					"accept" => ".jpg, .png, .gif, image/jpeg, image/png, image/gif, .mp3, .mp4, audio/*, video/*",
 					"multiple" => true,
 					"uploader" => true,
+					"uploader_options" => array("recordaudio" => true, "recordvideo" => true),
 //					"maxchunk" => min(FlexForms_FileUploader::GetMaxUploadFileSize(), 1000000),
 					"desc" => "Description for File Uploader.  This feature requires FlexForms Modules to be included."
 				),
