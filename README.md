@@ -13,6 +13,7 @@ Features
 * Quick-n-dirty custom administrative interface builder.  [Live demo](https://barebonescms.com/demos/admin_pack/admin.php)
 * The default templates look nice enough.  Gets the job done.
 * Integrated CSRF/XSRF defenses.
+* Supports custom logos/favicon.
 * Very lightweight (~180KB).
 * Has a liberal open source license.  MIT or LGPL, your choice.
 * Designed for relatively painless integration into your project.
