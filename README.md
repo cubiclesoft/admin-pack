@@ -5,7 +5,7 @@ A PHP toolkit designed specifically for programmers to quickly create a nice-loo
 
 Be sure to check out [Admin Pack with Extras](https://github.com/cubiclesoft/admin-pack-with-extras).  It is Admin Pack plus some extra options with Javascript components (e.g. a convenient visual date picker widget) in a slightly beefier package.
 
-[![Donate](https://cubiclesoft.com/res/donate-shield.png)](https://cubiclesoft.com/donate/)
+[![Donate](https://cubiclesoft.com/res/donate-shield.png)](https://cubiclesoft.com/donate/) [![Discord](https://img.shields.io/discord/777282089980526602?label=chat&logo=discord)](https://cubiclesoft.com/product-support/github/)
 
 Features
 --------
